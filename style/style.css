@@ -194,3 +194,46 @@ header .container {
 .out-work .out-work-content .content-card .images .image-bottom img {
     width: 100%;
 }
+.bg{
+    background-image: url(../images/bg.png);
+   height: 1000px;
+
+background-color: var(--color-dark);
+}
+.bg h1{
+font-family: Futura PT;
+font-size: 70px;
+font-weight: 400;
+line-height: 91px;
+text-align: left;
+color: var(--color-white);
+width: 1050px;
+height: 273px;
+gap: 0px;
+opacity: 0px;
+
+}
+.bg p{
+font-family: Futura PT;
+font-size: 28px;
+font-weight: 400;
+line-height: 42px;
+text-align: left;
+color: var(--color-white);
+width: 1050px;
+height: 42px;
+gap: 0px;
+opacity: 0px;
+
+}
+.bg button{
+    width: Hug (213px)px;
+height: Hug (64px)px;
+padding: 20px 40px 20px 40px;
+gap: 15px;
+border-radius: 31px ;
+opacity: 0px;
+background: linear-gradient(90deg, #FDC4A6 0%, #A9796B 100%);
+border: none;
+
+}
